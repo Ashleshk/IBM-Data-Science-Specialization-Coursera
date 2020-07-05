@@ -6,8 +6,10 @@ The art of uncovering the insights and trends in data has been around since anci
 
 **LIMITED TIME OFFER**: Subscription is only $39 USD per month for access to graded materials and a certificate.
 
-**Taught by**:  Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network
-**Taught by**:  Polong Lin, Data Scientist, IBM Developer Skills Network
+| **Image**        | **Name**           | **Designation**  |
+| :-------------: |:-------------:|:-----:|
+| ![alex aklson](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Alex-Aklson.jpg)     | **Alex Aklson** | Ph.D., Data Scientist, IBM Developer Skills Network |
+| ![Polong Lin](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/polong%20lin.jpg)    | **Polong Lin**     |  Data Scientist, IBM Developer Skills Network |
 
 ## Course Layout
 * **Week-01 : Defining Data Science and What Data Scientists Do**
@@ -64,3 +66,9 @@ The art of uncovering the insights and trends in data has been around since anci
 1. Course Link - [Coursera](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
 2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-1%20What%20is%20Data%20Science.pdf)
 3. On Coursera Certificate Link - [Accomplishment](https://www.coursera.org/account/accomplishments/records/U8HTJ2JD8D6X)
+
+## Offered by
+![IBM logo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/IBM-Logo-Blk---Square.png)
+
+**IBM**
+IBM offers a wide range of technology and consulting services; a broad portfolio of middleware for collaboration, predictive analytics, software development and systems management; and the world's most advanced servers and supercomputers. Utilizing its business consulting, technology and R&D expertise, IBM helps clients become "smarter" as the planet becomes more digitally interconnected. IBM invests more than $6 billion a year in R&D, just completing its 21st year of patent leadership. IBM Research has received recognition beyond any commercial technology research organization and is home to 5 Nobel Laureates, 9 US National Medals of Technology, 5 US National Medals of Science, 6 Turing Awards, and 10 Inductees in US Inventors Hall of Fame.
