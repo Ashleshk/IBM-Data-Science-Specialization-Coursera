@@ -54,19 +54,12 @@ This professional certificate has a strong emphasis on applied learning. Except 
 9. Applied Data Science Capstone
 
 ## Instructors
-![alex aklson](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Alex-Aklson.jpg)
-**Alex Aklson**
-Ph.D., Data Scientist
-IBM Developer Skills Network
- 
-Polong Lin
-Data Scientist
-IBM Developer Skills Network
- 
-Romeo Kienzler
-Chief Data Scientist, Course Lead
-IBM Watson IoT
- 
+| Image        | Name           | Designation  |
+| ------------- |:-------------:| -----:|
+| ![alex aklson](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Alex-Aklson.jpg)     | **Alex Aklson** | Ph.D., Data Scientist, IBM Developer Skills Network |
+| ![Polong Lin](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/polong%20lin.jpg)    | **Polong Lin**     |  Data Scientist, IBM Developer Skills Network |
+| [Romeo Kienzler]() | **Romeo Kienzler**     |    Chief Data Scientist, Course Lead IBM Watson IoT |
+  
 Svetlana Levitan
 Senior Developer Advocate with IBM Center for Open Data and AI Technologies
  
