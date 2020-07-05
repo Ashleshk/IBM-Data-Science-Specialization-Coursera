@@ -55,10 +55,10 @@ This professional certificate has a strong emphasis on applied learning. Except 
 
 ## Instructors
 | Image        | Name           | Designation  |
-| ------------- |:-------------:| -----:|
+| :-------------: |:-------------:|:-----:|
 | ![alex aklson](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Alex-Aklson.jpg)     | **Alex Aklson** | Ph.D., Data Scientist, IBM Developer Skills Network |
 | ![Polong Lin](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/polong%20lin.jpg)    | **Polong Lin**     |  Data Scientist, IBM Developer Skills Network |
-| [Romeo Kienzler]() | **Romeo Kienzler**     |    Chief Data Scientist, Course Lead IBM Watson IoT |
+| ![Romeo Kienzler](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/romeokeinzler.jpg) | **Romeo Kienzler**     |    Chief Data Scientist, Course Lead IBM Watson IoT |
   
 Svetlana Levitan
 Senior Developer Advocate with IBM Center for Open Data and AI Technologies
