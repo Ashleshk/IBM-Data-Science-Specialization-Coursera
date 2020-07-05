@@ -53,8 +53,39 @@ This professional certificate has a strong emphasis on applied learning. Except 
 8. Machine Learning with Python
 9. Applied Data Science Capstone
 
+## Instructors
+![alex aklson](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Alex-Aklson.jpg)
+**Alex Aklson**
+Ph.D., Data Scientist
+IBM Developer Skills Network
+ 
+Polong Lin
+Data Scientist
+IBM Developer Skills Network
+ 
+Romeo Kienzler
+Chief Data Scientist, Course Lead
+IBM Watson IoT
+ 
+Svetlana Levitan
+Senior Developer Advocate with IBM Center for Open Data and AI Technologies
+ 
+Joseph Santarcangelo
+Ph.D., Data Scientist at IBM
+IBM Developer Skills Network
+ 
+Rav Ahuja
+AI and Data Science Program Director
+IBM
+ 
+SAEED AGHABOZORGI
+Ph.D., Sr. Data Scientist
+IBM Developer Skills Network
+
 ## Offered by
 ![IBM logo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/IBM-Logo-Blk---Square.png)
 
 **IBM**
 IBM offers a wide range of technology and consulting services; a broad portfolio of middleware for collaboration, predictive analytics, software development and systems management; and the world's most advanced servers and supercomputers. Utilizing its business consulting, technology and R&D expertise, IBM helps clients become "smarter" as the planet becomes more digitally interconnected. IBM invests more than $6 billion a year in R&D, just completing its 21st year of patent leadership. IBM Research has received recognition beyond any commercial technology research organization and is home to 5 Nobel Laureates, 9 US National Medals of Technology, 5 US National Medals of Science, 6 Turing Awards, and 10 Inductees in US Inventors Hall of Fame.
+
+ 
