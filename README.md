@@ -54,22 +54,23 @@ This professional certificate has a strong emphasis on applied learning. Except 
 9. Applied Data Science Capstone
 
 ## Instructors
-| Image        | Name           | Designation  |
+| **Image**        | **Name**           | **Designation**  |
 | :-------------: |:-------------:|:-----:|
 | ![alex aklson](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Alex-Aklson.jpg)     | **Alex Aklson** | Ph.D., Data Scientist, IBM Developer Skills Network |
 | ![Polong Lin](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/polong%20lin.jpg)    | **Polong Lin**     |  Data Scientist, IBM Developer Skills Network |
-| ![Romeo Kienzler](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/romeokeinzler.jpg) | **Romeo Kienzler**     |    Chief Data Scientist, Course Lead IBM Watson IoT |
-  
-Svetlana Levitan
-Senior Developer Advocate with IBM Center for Open Data and AI Technologies
+| ![Romeo Kienzler](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/romeokeinzler.jpg) | **Romeo Kienzler**     | Chief Data Scientist, Course Lead IBM Watson IoT |
+| ![Svetlana Levitan](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Svetlana.jpg)    | **Svetlana Levitan**     |  Senior Developer Advocate with IBM Center for Open Data and AI Technologies |
+| ![Joseph Santarcangelo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/joseph.jpg)    | **Joseph Santarcangelo**     |  Ph.D., Data Scientist at IBM, 
+IBM Developer Skills Network |
+| ![Rav Ahuja](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/ravahuja.jpg)    | **Rav Ahuja**     |  AI and Data Science Program Director
+IBM |
+
+
  
-Joseph Santarcangelo
-Ph.D., Data Scientist at IBM
-IBM Developer Skills Network
- 
-Rav Ahuja
-AI and Data Science Program Director
-IBM
+
+
+
+
  
 SAEED AGHABOZORGI
 Ph.D., Sr. Data Scientist
