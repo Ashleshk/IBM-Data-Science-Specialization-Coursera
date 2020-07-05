@@ -59,3 +59,8 @@ The art of uncovering the insights and trends in data has been around since anci
 	* The Report Structure
 	* Quiz: The Report Structure
 	* Final Assignment
+
+## Reference & Certificates
+1. Course Link - [Coursera](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
+2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-1%20What%20is%20Data%20Science.pdf)
+3. On Coursera Certificate Link - [Accomplishment](https://www.coursera.org/account/accomplishments/records/U8HTJ2JD8D6X)
