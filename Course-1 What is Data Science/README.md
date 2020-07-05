@@ -1,2 +1,61 @@
 # IBM-Data-Science-Specialization
- Data Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Data Science or Machine Learning.  This program consists of 9 courses providing you with latest job-ready skills and techniques covering a wide array of data science topics including: open source tools and libraries, methodologies, Python, databases, SQL, data visualization, data analysis, and machine learning. You will practice hands-on in the IBM Cloud using real data science tools and real-world data sets.  It is a myth that to become a data scientist you need a Ph.D. This Professional Certificate is suitable for anyone who has some computer skills and a passion for self-learning. No prior computer science or programming knowledge is necessary. We start small, re-enforce applied learning, and build up to more complex topics.  Upon successfully completing these courses you will have done several hands-on assignments and built a portfolio of data science projects to provide you with the confidence to plunge into an exciting profession in Data Science. In addition to earning a Professional Certificate from Coursera, you will also receive a digital Badge from IBM recognizing your proficiency in Data Science.
+
+# What is Data Science?
+## About this Course
+The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science. In this course, we will meet some data science practitioners and we will get an overview of what data science is today.
+
+**LIMITED TIME OFFER**: Subscription is only $39 USD per month for access to graded materials and a certificate.
+
+**Taught by**:  Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network
+**Taught by**:  Polong Lin, Data Scientist, IBM Developer Skills Network
+
+## Course Layout
+* **Week-01 : Defining Data Science and What Data Scientists Do**
+* **Week-02 : Data Science Topics**
+* **Week-03 : Data Sciecne in Business**
+
+## Course Syllabus
+* **Defining Data Science and What Data Scientists Do**
+	* Defining Data Science    
+	* What is Data Science?
+	* Fundamentals of Data Science
+	* The Many Paths to Data Science
+	* Advice for New Data Scientists
+	* Data Science: The Sexiest Job in the 21st Century
+
+* **What Do Data Scientists Do?**
+	* A day in the Life of a Data Scientist
+	* Old problems, new problems, Data Science solutions
+	* Data Science Topics and Algorithms
+	* What is the cloud?
+	* What Makes Someone a Data Scientist?
+* **Data Science Topics**   
+	* Foundations of Big Data
+	* How Big Data is Driving Digital Transformation
+	* What is Hadoop?
+	* Data Science Skills & Big Data
+	* Data Scientists at New York University
+	* Data Mining
+	* Quiz: Data Mining
+* **Deep Learning and Machine Learning**
+	* What's the difference?
+	* Neural Networks and Deep Learning
+	* Applications of Machine Learning
+	* Regression
+	* Quiz: Regression
+* **Data Science in Business**
+	* Applications of Data Science
+	* How Data Science is Saving Lives
+	* How Should Companies Get Started in Data Science?
+	* Applications of Data Science
+	* The Final Deliverable
+	* Quiz: The Final Deliverable
+* **Careers and Recruiting in Data Science**
+	* How Can Someone Become a Data Scientist?
+	* Recruiting for Data Science
+	* Careers in Data Science
+	* High School Students and Data Science Careers
+* **The Report Structure**
+	* The Report Structure
+	* Quiz: The Report Structure
+	* Final Assignment
