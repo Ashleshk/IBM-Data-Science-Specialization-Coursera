@@ -10,61 +10,29 @@ What are some of the most popular data science tools, how do you use them, and w
 | ![Romeo Kienzler](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/romeokeinzler.jpg) | **Romeo Kienzler**     | Chief Data Scientist, Course Lead IBM Watson IoT |
 | ![Svetlana Levitan](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Svetlana.jpg)    | **Svetlana Levitan**     |  Senior Developer Advocate with IBM Center for Open Data and AI Technologies |
 
-## Course Layout
-* **Week-01 : Defining Data Science and What Data Scientists Do**
-* **Week-02 : Data Science Topics**
-* **Week-03 : Data Sciecne in Business**
 
 ## Course Syllabus
-* **Defining Data Science and What Data Scientists Do**
-	* Defining Data Science    
-	* What is Data Science?
-	* Fundamentals of Data Science
-	* The Many Paths to Data Science
-	* Advice for New Data Scientists
-	* Data Science: The Sexiest Job in the 21st Century
-
-* **What Do Data Scientists Do?**
-	* A day in the Life of a Data Scientist
-	* Old problems, new problems, Data Science solutions
-	* Data Science Topics and Algorithms
-	* What is the cloud?
-	* What Makes Someone a Data Scientist?
-* **Data Science Topics**   
-	* Foundations of Big Data
-	* How Big Data is Driving Digital Transformation
-	* What is Hadoop?
-	* Data Science Skills & Big Data
-	* Data Scientists at New York University
-	* Data Mining
-	* Quiz: Data Mining
-* **Deep Learning and Machine Learning**
-	* What's the difference?
-	* Neural Networks and Deep Learning
-	* Applications of Machine Learning
-	* Regression
-	* Quiz: Regression
-* **Data Science in Business**
-	* Applications of Data Science
-	* How Data Science is Saving Lives
-	* How Should Companies Get Started in Data Science?
-	* Applications of Data Science
-	* The Final Deliverable
-	* Quiz: The Final Deliverable
-* **Careers and Recruiting in Data Science**
-	* How Can Someone Become a Data Scientist?
-	* Recruiting for Data Science
-	* Careers in Data Science
-	* High School Students and Data Science Careers
-* **The Report Structure**
-	* The Report Structure
-	* Quiz: The Report Structure
+* **Week-01 : Data Scientist's Toolkit**
+	* Languages of Data Science
+	* Data Science Tools
+	* Packages, APIs, DataSets and Models
+	* Module 1 Assessment
+* **Week-02 : Open Source Tools**
+	* Github
+	* Jupyter Notebook and JupyterLab
+	* Rstudio IDE
+	* Module 2 Assessment
+* **Week-03 : IBM Tools For Data Science**
+	* Watson Studio
+	* Other IBM Tools
+	* Module 3 Assessment
+* **Week-04 : Final Assignment : Creating And Sharing Your Jupyter Notebook**
 	* Final Assignment
 
 ## Reference & Certificates
-1. Course Link - [Coursera](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
-2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-1%20What%20is%20Data%20Science.pdf)
-3. On Coursera Certificate Link - [Accomplishment](https://www.coursera.org/account/accomplishments/records/U8HTJ2JD8D6X)
+1. Course Link - [Coursera]()
+2. Certificattion Link -[In Github]()
+3. On Coursera Certificate Link - [Accomplishment]( )
 
 ## Offered by
 ![IBM logo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/IBM-Logo-Blk---Square.png)
