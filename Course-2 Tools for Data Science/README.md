@@ -30,9 +30,9 @@ What are some of the most popular data science tools, how do you use them, and w
 	* Final Assignment
 
 ## Reference & Certificates
-1. Course Link - [Coursera]()
-2. Certificattion Link -[In Github]()
-3. On Coursera Certificate Link - [Accomplishment]( )
+1. Course Link - [Coursera](https://www.coursera.org/learn/open-source-tools-for-data-science)
+2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-2%20Tools%20For%20Data%20Science.pdf)
+3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/07f7fea942197868b30c5a2387a0fda7)
 
 ## Offered by
 ![IBM logo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/IBM-Logo-Blk---Square.png)
