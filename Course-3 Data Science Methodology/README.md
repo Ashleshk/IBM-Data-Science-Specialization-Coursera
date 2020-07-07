@@ -51,7 +51,7 @@ Accordingly, in this course, you will learn:
 ## Reference & Certificates
 1. Course Link - [Coursera](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
 2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-3%20Data%20Science%20Methodology.pdf)
-3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/ae604083903a06382e48c0b515616d63)
+3. On Coursera Certificate Link - [Accomplishment on Coursera](https://coursera.org/share/ae604083903a06382e48c0b515616d63)
 
 ## Offered by
 ![IBM logo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/IBM-Logo-Blk---Square.png)
