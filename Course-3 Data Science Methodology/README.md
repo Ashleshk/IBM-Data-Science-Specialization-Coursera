@@ -24,27 +24,34 @@ Accordingly, in this course, you will learn:
 
 
 ## Course Syllabus
-* **Week-01 : Data Scientist's Toolkit**
-	* Languages of Data Science
-	* Data Science Tools
-	* Packages, APIs, DataSets and Models
-	* Module 1 Assessment
-* **Week-02 : Open Source Tools**
-	* Github
-	* Jupyter Notebook and JupyterLab
-	* Rstudio IDE
-	* Module 2 Assessment
-* **Week-03 : IBM Tools For Data Science**
-	* Watson Studio
-	* Other IBM Tools
-	* Module 3 Assessment
-* **Week-04 : Final Assignment : Creating And Sharing Your Jupyter Notebook**
-	* Final Assignment
+* Module 1: From Problem to Approach and from Requirements to Collection
+	* Business Understanding
+	* Analytic Approach
+	* Data Requirements
+	* Data Collection
+	* Lab: From Problem to Approach
+	* Lab: From Requirement to Collection
+	* Quiz: From Problem to Approach
+	* Quiz: From Requirement to Collection
+* **Module 2: From Understanding to Preparation and from Modeling to Evaluation**
+	* Data Understanding
+	* Data Preparation
+	* Modeling
+	* Evaluation
+	* Lab: From Understanding to Preparation
+	* Lab: From Modeling to Evaluation
+	* Quiz: From Understanding to Preparation
+	* Quiz: From Modeling to Evaluation
+* **Module 3: From Deployment to Feedback**
+	* Deployment
+	* Feedback
+	* Quiz: From Deployment to Feedback
+	* Peer-review Assignment
 
 ## Reference & Certificates
-1. Course Link - [Coursera](https://www.coursera.org/learn/open-source-tools-for-data-science)
-2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-2%20Tools%20For%20Data%20Science.pdf)
-3. On Coursera Certificate Link - [Accomplishment](https://coursera.org/share/07f7fea942197868b30c5a2387a0fda7)
+1. Course Link - [Coursera]( )
+2. Certificattion Link -[In Github]( )
+3. On Coursera Certificate Link - [Accomplishment]( )
 
 ## Offered by
 ![IBM logo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/IBM-Logo-Blk---Square.png)
