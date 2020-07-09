@@ -17,8 +17,7 @@ Accordingly, in this course, you will learn:
 ## Instructors
 | **Image**        | **Name**           | **Designation**  |
 | :-------------: |:-------------:|:-----:|
-| ![alex aklson](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Alex-Aklson.jpg)     | **Alex Aklson** | Ph.D., Data Scientist, IBM Developer Skills Network |
-| ![Polong Lin](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/polong%20lin.jpg)    | **Polong Lin**     |  Data Scientist, IBM Developer Skills Network |
+| ![Joseph Santarcangelo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/joseph.jpg)    | **Joseph Santarcangelo**     |  Ph.D., Data Scientist at IBM, IBM Developer Skills Network |
 
 
 ## Course Syllabus
