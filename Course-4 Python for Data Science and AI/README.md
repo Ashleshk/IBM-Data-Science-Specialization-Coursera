@@ -47,7 +47,7 @@ Accordingly, in this course, you will learn:
 
 ## Reference & Certificates
 1. Course Link - [Coursera](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
-2. Certificattion Link -[In Github]( )
+2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-4%20Python%20for%20Data%20Science%20And%20AI.pdf)
 3. On Coursera Certificate Link - [Accomplishment on Coursera](https://coursera.org/share/301153e580a69e61706a1e4eb14b7527)
 
 ## Offered by
