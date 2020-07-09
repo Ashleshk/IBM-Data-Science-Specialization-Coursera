@@ -46,7 +46,7 @@ Accordingly, in this course, you will learn:
 * Finally, you will create a project to test your skills.
 
 ## Reference & Certificates
-1. Course Link - [Coursera]( )
+1. Course Link - [Coursera](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
 2. Certificattion Link -[In Github]( )
 3. On Coursera Certificate Link - [Accomplishment on Coursera]( )
 
