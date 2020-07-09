@@ -1,10 +1,8 @@
 # IBM-Data-Science-Specialization
 
-# Data Science Methodology
+# Python for Data Science and AI
 ## About this Course
-Despite the recent increase in computing power and access to data over the last couple of decades, our ability to use the data within the decision making process is either lost or not maximized at all too often, we don't have a solid understanding of the questions being asked and how to apply the data correctly to the problem at hand.
-
-This course has one purpose, and that is to share a methodology that can be used within data science, to ensure that the data used in problem solving is relevant and properly manipulated to address the question at hand.
+This introduction to Python will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.
 
 Accordingly, in this course, you will learn:
     - The major steps involved in tackling a data science problem.
