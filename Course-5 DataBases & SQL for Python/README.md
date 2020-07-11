@@ -1,13 +1,8 @@
 # IBM-Data-Science-Specialization
 
-# Python for Data Science and AI
+# Databases and SQL for Data Science
 ## About this Course
-This introduction to Python will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.
-
-Accordingly, in this course, you will learn:
-    - The major steps involved in tackling a data science problem.
-    - The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data, to building a model, and understanding the feedback after model deployment.
-    - How data scientists think!
+ 
 
 **This course is part of multiple programs**
 > This course can be applied to multiple Specializations or Professional Certificates programs. Completing this course will count towards your learning in any of the following programs:
@@ -17,38 +12,15 @@ Accordingly, in this course, you will learn:
 ## Instructors
 | **Image**        | **Name**           | **Designation**  |
 | :-------------: |:-------------:|:-----:|
-| ![Joseph Santarcangelo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/joseph.jpg)    | **Joseph Santarcangelo**     |  Ph.D., Data Scientist at IBM, IBM Developer Skills Network |
+ 
 
 
 ## Course Syllabus
-* Module 1 - Python Basics
-    * Your first program
-	* Types
-	* Expressions and Variables
-	* String Operations
-
-* Module 2 - Python Data Structures
-	* Lists and Tuples
-	* Sets
-	* Dictionaries
-
-* Module 3 - Python Programming Fundamentals
-	* Conditions and Branching
-	* Loops
-	* Functions
-	* Objects and Classes
-
-* Module 4 - Working with Data in Python
-	* Reading files with open
-	* Writing files with open
-	* Loading data with Pandas
-	* Numpy 
-* Finally, you will create a project to test your skills.
-
+ 
 ## Reference & Certificates
-1. Course Link - [Coursera](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
-2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-4%20Python%20for%20Data%20Science%20And%20AI.pdf)
-3. On Coursera Certificate Link - [Accomplishment on Coursera](https://coursera.org/share/301153e580a69e61706a1e4eb14b7527)
+1. Course Link - [Coursera] ()
+2. Certificattion Link -[In Github]( f)
+3. On Coursera Certificate Link - [Accomplishment on Coursera]( )
 
 ## Offered by
 ![IBM logo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/IBM-Logo-Blk---Square.png)
