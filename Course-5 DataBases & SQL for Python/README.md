@@ -16,6 +16,8 @@ The emphasis in this course is on hands-on and practical learning . As such, you
 ## Instructors
 | **Image**        | **Name**           | **Designation**  |
 | :-------------: |:-------------:|:-----:|
+| ![Svetlana Levitan](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Svetlana.jpg)    | **Svetlana Levitan**     |  Senior Developer Advocate with IBM Center for Open Data and AI Technologies |
+| ![Joseph Santarcangelo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/joseph.jpg)    | **Joseph Santarcangelo**     |  Ph.D., Data Scientist at IBM, IBM Developer Skills Network |
  
 
 ## WHAT YOU WILL LEARN
