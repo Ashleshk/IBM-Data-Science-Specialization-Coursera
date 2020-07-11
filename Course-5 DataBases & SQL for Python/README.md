@@ -48,9 +48,9 @@ As a hands-on Data Science assignment, you will be working with multiple real wo
 
  
 ## Reference & Certificates
-1. Course Link - [Coursera] ()
-2. Certificattion Link -[In Github]( f)
-3. On Coursera Certificate Link - [Accomplishment on Coursera]( )
+1. Course Link - [Coursera](https://www.coursera.org/learn/sql-data-science)
+2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-5%20Databases%20And%20SQL%20for%20Data%20Science.pdf)
+3. On Coursera Certificate Link - [Accomplishment on Coursera](https://coursera.org/share/24d6334bb11bb56d786bdfb5113e80d3)
 
 ## Offered by
 ![IBM logo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/IBM-Logo-Blk---Square.png)
