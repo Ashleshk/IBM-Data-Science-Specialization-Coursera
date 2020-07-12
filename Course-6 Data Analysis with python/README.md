@@ -2,11 +2,21 @@
 
 # Data Analysis with Python
 ## About this Course
-Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. A working knowledge of databases and SQL is a must if you want to become a data scientist.
+Learn how to analyze data using Python. This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more!
 
-The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
+Topics covered:
 
-The emphasis in this course is on hands-on and practical learning . As such, you will work with real databases, real data science tools, and real-world datasets. You will create a database instance in the cloud. Through a series of hands-on labs you will practice building and running SQL queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python.
+1) Importing Datasets
+2) Cleaning the Data
+3) Data frame manipulation
+4) Summarizing the Data
+5) Building machine learning Regression models
+6) Building data pipelines
+
+ Data Analysis with Python will be delivered through lecture, lab, and assignments. It includes following parts:
+
+Data Analysis libraries: will learn to use Pandas, Numpy and Scipy libraries to work with a sample dataset. We will introduce you to pandas, an open-source library, and we will use it to load, manipulate, analyze, and visualize cool datasets. Then we will introduce you to another open-source library, scikit-learn, and we will use some of its machine learning algorithms to build smart models and make cool predictions.
+
 
 **This course is part of multiple programs**
 > This course can be applied to multiple Specializations or Professional Certificates programs. Completing this course will count towards your learning in any of the following programs:
