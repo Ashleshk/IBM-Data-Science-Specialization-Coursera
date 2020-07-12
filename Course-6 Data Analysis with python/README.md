@@ -1,6 +1,6 @@
 # IBM-Data-Science-Specialization
 
-# Databases and SQL for Data Science
+# Data Analysis with Python
 ## About this Course
 Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. A working knowledge of databases and SQL is a must if you want to become a data scientist.
 
@@ -16,8 +16,6 @@ The emphasis in this course is on hands-on and practical learning . As such, you
 ## Instructors
 | **Image**        | **Name**           | **Designation**  |
 | :-------------: |:-------------:|:-----:|
-| ![Svetlana Levitan](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Svetlana.jpg)    | **Svetlana Levitan**     |  Senior Developer Advocate with IBM Center for Open Data and AI Technologies |
-| ![Joseph Santarcangelo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/joseph.jpg)    | **Joseph Santarcangelo**     |  Ph.D., Data Scientist at IBM, IBM Developer Skills Network |
  
 
 ## WHAT YOU WILL LEARN
@@ -34,23 +32,13 @@ The emphasis in this course is on hands-on and practical learning . As such, you
 * SQL
 
 ## Course Syllabus
-* **Week 1 - Introduction to Databases and Basic SQL**
-> In Week 1 you will be introduced to databases. You will create a database instance on the cloud. You will learn some of the basic SQL statements. You will also write and practice basic SQL hands-on on a live database.
-
-* **Week 2 - Advanced SQL**
-> By the end of this module, you will learn the following: (1) Learn how to use string patterns and ranges to search data and how to sort and group data in result sets. (2) Learn how to work with multiple tables in a relational database using join operations.
-
-* **Week 3 - Accessing Databases using Python** 
-> After completing the lessons in this week, you will learn how to explain the basic concepts related to using Python to connect to databases and then create tables, load data, query data using SQL, and analyze data using Python
-
-* **Week 4: Course Assignment**
-As a hands-on Data Science assignment, you will be working with multiple real world datasets for the city of Chicago. You will be asked questions that will help you understand the data just like a data scientist would. You will be assessed both on the correctness of your SQL queries and results.
+ 
 
  
 ## Reference & Certificates
-1. Course Link - [Coursera](https://www.coursera.org/learn/sql-data-science)
-2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-5%20Databases%20And%20SQL%20for%20Data%20Science.pdf)
-3. On Coursera Certificate Link - [Accomplishment on Coursera](https://coursera.org/share/24d6334bb11bb56d786bdfb5113e80d3)
+1. Course Link - [Coursera]()
+2. Certificattion Link -[In Github]( )
+3. On Coursera Certificate Link - [Accomplishment on Coursera]()
 
 ## Offered by
 ![IBM logo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/IBM-Logo-Blk---Square.png)
