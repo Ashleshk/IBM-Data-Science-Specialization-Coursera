@@ -26,6 +26,7 @@ Data Analysis libraries: will learn to use Pandas, Numpy and Scipy libraries to 
 ## Instructors
 | **Image**        | **Name**           | **Designation**  |
 | :-------------: |:-------------:|:-----:|
+| ![Joseph Santarcangelo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/joseph.jpg)    | **Joseph Santarcangelo**     |  Ph.D., Data Scientist at IBM, IBM Developer Skills Network |
  
 
 ## WHAT YOU WILL LEARN
