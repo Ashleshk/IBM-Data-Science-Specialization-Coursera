@@ -35,11 +35,11 @@ Data Analysis libraries: will learn to use Pandas, Numpy and Scipy libraries to 
 * Access databases from Jupyter using Python and work with real world datasets
 
 ## SKILLS YOU WILL GAIN
-* Cloud Databases
+* Predictive Modelling
 * Python Programming
-* Ipython
-* Relational Database Management System (RDBMS)
-* SQL
+* Data Analysis
+* Data Visualization (DataViz)
+* Model Selection
 
 ## Course Syllabus
  
