@@ -1,21 +1,13 @@
 # IBM-Data-Science-Specialization
 
-# Data Analysis with Python
+# Data Visualization with Python
 ## About this Course
-Learn how to analyze data using Python. This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more!
+"A picture is worth a thousand words". We are all familiar with this expression. It especially applies when trying to explain the insight obtained from the analysis of increasingly large datasets. Data visualization plays an essential role in the representation of both small and large-scale data.
 
-Topics covered:
+One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. Learning how to leverage a software tool to visualize data will also enable you to extract information, better understand the data, and make more effective decisions.
 
-1) Importing Datasets
-2) Cleaning the Data
-3) Data frame manipulation
-4) Summarizing the Data
-5) Building machine learning Regression models
-6) Building data pipelines
+The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
 
- Data Analysis with Python will be delivered through lecture, lab, and assignments. It includes following parts:
-
-Data Analysis libraries: will learn to use Pandas, Numpy and Scipy libraries to work with a sample dataset. We will introduce you to pandas, an open-source library, and we will use it to load, manipulate, analyze, and visualize cool datasets. Then we will introduce you to another open-source library, scikit-learn, and we will use some of its machine learning algorithms to build smart models and make cool predictions.
 
 
 **This course is part of multiple programs**
