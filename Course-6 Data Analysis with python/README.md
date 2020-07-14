@@ -43,7 +43,13 @@ Data Analysis libraries: will learn to use Pandas, Numpy and Scipy libraries to 
 * Model Selection
 
 ## Course Syllabus
- 
+* **WEEK-1 : Importing Datasets**
+* **WEEK-2 : Data Wrangling**
+* **WEEK-3 : Exploratory Data Analysis**
+* **WEEK-4 : Model Development**
+* **WEEK-5 : Model Evaluation**
+* **WEEK-6 : Final Assignment**
+* **WEEK-7 : IBM Digital Badge**
 
  
 ## Reference & Certificates
