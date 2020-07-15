@@ -44,6 +44,39 @@ The main goal of this Data Visualization with Python course is to teach you how 
 **WEEK-03 : Advanced Visualizations and Geospatial Data**
 > In this module, you will learn about advanced visualization tools such as waffle charts and word clouds and how to create them. You will also learn about seaborn, which is another visualization library, and how to use it to generate attractive regression plots. In addition, you will learn about Folium, which is another visualization library, designed especially for visualizing geospatial data. Finally, you will learn how to use Folium to create maps of different regions of the world and how to superimpose markers on top of a map, and how to create choropleth maps.
 
+## Syllabus
+* **Week 1 - Introduction to Data Visualization Tools**
+    * Introduction to Data Visualization
+    * Introduction to Matplotlib
+    * Basic Plotting with Matplotlib
+    * Dataset on Immigration to Canada
+    * Line Plots
+    * **Lab: Introduction to Matplotlib and Line Plots**
+    * **Quiz: Introduction to Data Visualization Tools**
+Week 2 - Basic and Specialized Visualization Tools
+Area Plots
+Histograms
+Bar Charts
+Pie Charts
+Box Plots
+Scatter Plots
+Bubble Plots
+Lab: Basic Visualization Tools
+Lab: Specialized Visualization Tools
+Quiz: Basic Visualization Tools
+Quiz: Specialized Visualization Tools
+Week 3 - Advanced Visualizations and Geospatial Data
+Waffle Charts
+Word Clouds
+Seaborn and Regression Plots
+Introduction to Folium and Map Styles
+Maps with Markers
+Choropleth Maps
+Lab: Advanced Visualization Tools
+Lab: Creating Maps and Visualizing Geospatial Data
+Quiz: Advanced Visualization Tools
+Quiz: Visualizing Geospatial Data
+Peer-review Assignment
 
 
  
