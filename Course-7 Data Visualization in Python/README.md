@@ -35,19 +35,22 @@ The main goal of this Data Visualization with Python course is to teach you how 
 * Model Selection
 
 ## Course Syllabus
-* **WEEK-1 : Importing Datasets**
-* **WEEK-2 : Data Wrangling**
-* **WEEK-3 : Exploratory Data Analysis**
-* **WEEK-4 : Model Development**
-* **WEEK-5 : Model Evaluation**
-* **WEEK-6 : Final Assignment**
-* **WEEK-7 : IBM Digital Badge**
+**WEEK-01 : Introduction to Data Visualization Tools**
+> In this module, you will learn about data visualization and some of the best practices to keep in mind when creating plots and visuals. You will also learn about the history and the architecture of Matplotlib and learn about basic plotting with Matplotlib. In addition, you will learn about the dataset on immigration to Canada, which will be used extensively throughout the course. Finally, you will briefly learn how to read csv files into a pandas dataframe and process and manipulate the data in the dataframe, and how to generate line plots using Matplotlib.
+
+**WEEK-02 : Basic and Specialized Visualization Tools**
+> In this module, you learn about area plots and how to create them with Matplotlib, histograms and how to create them with Matplotlib, bar charts, and how to create them with Matplotlib, pie charts, and how to create them with Matplotlib, box plots and how to create them with Matplotlib, and scatter plots and bubble plots and how to create them with Matplotlib.
+
+**WEEK-03 : Advanced Visualizations and Geospatial Data**
+> In this module, you will learn about advanced visualization tools such as waffle charts and word clouds and how to create them. You will also learn about seaborn, which is another visualization library, and how to use it to generate attractive regression plots. In addition, you will learn about Folium, which is another visualization library, designed especially for visualizing geospatial data. Finally, you will learn how to use Folium to create maps of different regions of the world and how to superimpose markers on top of a map, and how to create choropleth maps.
+
+
 
  
 ## Reference & Certificates
-1. Course Link - [Coursera](https://www.coursera.org/learn/data-analysis-with-python)
-2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-6%20Data%20Analysis%20with%20Python.pdf)
-3. On Coursera Certificate Link - [Accomplishment on Coursera](https://coursera.org/share/f5bc3d11948ec9b67cd603f073ac5e0d)
+1. Course Link - [Coursera]( )
+2. Certificattion Link -[In Github]( )
+3. On Coursera Certificate Link - [Accomplishment on Coursera]( )
 
 ## Offered by
 ![IBM logo](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/IBM-Logo-Blk---Square.png)
