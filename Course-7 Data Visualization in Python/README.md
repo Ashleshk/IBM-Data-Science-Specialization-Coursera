@@ -65,18 +65,18 @@ The main goal of this Data Visualization with Python course is to teach you how 
     * **Lab: Specialized Visualization Tools**
     * **Quiz: Basic Visualization Tools**
     * **Quiz: Specialized Visualization Tools**
-Week 3 - Advanced Visualizations and Geospatial Data
-Waffle Charts
-Word Clouds
-Seaborn and Regression Plots
-Introduction to Folium and Map Styles
-Maps with Markers
-Choropleth Maps
-Lab: Advanced Visualization Tools
-Lab: Creating Maps and Visualizing Geospatial Data
-Quiz: Advanced Visualization Tools
-Quiz: Visualizing Geospatial Data
-Peer-review Assignment
+* **Week 3 - Advanced Visualizations and Geospatial Data**
+    * Waffle Charts
+    * Word Clouds
+    * Seaborn and Regression Plots
+    * Introduction to Folium and Map Styles
+    * Maps with Markers
+    * Choropleth Maps
+    * **Lab: Advanced Visualization Tools**
+    * **Lab: Creating Maps and Visualizing Geospatial Data**
+    * **Quiz: Advanced Visualization Tools**
+    * **Quiz: Visualizing Geospatial Data**
+* **Peer-review Assignment**
 
 
  
