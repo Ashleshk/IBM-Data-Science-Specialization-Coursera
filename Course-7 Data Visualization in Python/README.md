@@ -53,18 +53,18 @@ The main goal of this Data Visualization with Python course is to teach you how 
     * Line Plots
     * **Lab: Introduction to Matplotlib and Line Plots**
     * **Quiz: Introduction to Data Visualization Tools**
-Week 2 - Basic and Specialized Visualization Tools
-Area Plots
-Histograms
-Bar Charts
-Pie Charts
-Box Plots
-Scatter Plots
-Bubble Plots
-Lab: Basic Visualization Tools
-Lab: Specialized Visualization Tools
-Quiz: Basic Visualization Tools
-Quiz: Specialized Visualization Tools
+* **Week 2 - Basic and Specialized Visualization Tools**
+    * Area Plots
+    * Histograms
+    * Bar Charts
+    * Pie Charts
+    * Box Plots
+    * Scatter Plots
+    * Bubble Plots
+    * **Lab: Basic Visualization Tools**
+    * **Lab: Specialized Visualization Tools**
+    * **Quiz: Basic Visualization Tools**
+    * **Quiz: Specialized Visualization Tools**
 Week 3 - Advanced Visualizations and Geospatial Data
 Waffle Charts
 Word Clouds
