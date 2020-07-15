@@ -49,7 +49,7 @@ The main goal of this Data Visualization with Python course is to teach you how 
  
 ## Reference & Certificates
 1. Course Link - [Coursera]( )
-2. Certificattion Link -[In Github]( )
+2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-7%20Data%20Visualization%20with%20Python.pdf)
 3. On Coursera Certificate Link - [Accomplishment on Coursera]( )
 
 ## Offered by
