@@ -67,7 +67,7 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
  
 ## Reference & Certificates
 1. Course Link - [Coursera](https://www.coursera.org/learn/machine-learning-with-python)
-2. Certificattion Link -[In Github]( )
+2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-8%20Machine%20Learning%20with%20Python.pdf)
 3. On Coursera Certificate Link - [Accomplishment on Coursera](https://coursera.org/share/96c48766e8a937989ce2f4f2ca423392)
 
 ## Offered by
