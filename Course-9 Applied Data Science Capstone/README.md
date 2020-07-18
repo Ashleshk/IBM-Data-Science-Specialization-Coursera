@@ -32,7 +32,7 @@ Finally, you will be required to use the Folium library to great maps of geospat
  
 ## Reference & Certificates
 1. Course Link - [Coursera]( )
-2. Certificattion Link -[In Github]( )
+2. Certificattion Link -[In Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/Certificate-9%20Applied%20Data%20Science%20Capstone.pdf)
 3. On Coursera Certificate Link - [Accomplishment on Coursera]()
 
 ## Offered by
