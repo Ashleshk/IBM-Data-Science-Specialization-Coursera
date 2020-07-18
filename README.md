@@ -14,6 +14,9 @@ Upon successfully completing these courses you will have done several hands-on a
 ## links to Coursera
 > [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science).
 
+## links to My Certificates
+> [Specilization Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JKLKDGLT3UA6)
+
 ## Applied Learning Project
 
 This professional certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs and are performed in the IBM Cloud (without any cost to you). Throughout this Professional Certificate you are exposed to a series of tools, libraries, cloud services, datasets, algorithms, assignments and projects that will provide you with practical skills with applicability to real jobs that employers value, including:
