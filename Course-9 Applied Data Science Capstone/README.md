@@ -12,6 +12,7 @@ Finally, you will be required to use the Folium library to great maps of geospat
 ## Instructors
 | **Image**        | **Name**           | **Designation**  |
 | :-------------: |:-------------:|:-----:|
+| ![alex aklson](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/blob/master/resources/Alex-Aklson.jpg)     | **Alex Aklson** | Ph.D., Data Scientist, IBM Developer Skills Network |
  
 ## WHAT YOU WILL LEARN
 * Create and access a database instance on cloud
